@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+html, body{
+    font-family: "Poppins", sans-serif;
+}
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover{
+    color: #c9c9c9;
+}
+
+.myimg{
+    width: 100%;
+    height: 30%;
+  }
+
+.myimg2{
+    border-radius: 50%;
+}
+
+.mycards{
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 50%;
+    /* transform: translateY(-50%); */
+}
+  
+.carousel-caption h1{
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 15px #000;
+}
+  
+.carousel-caption h3{
+    font-size: 200%;
+    font-weight: 500;
+    text-shadow: 1px 1px 10px #000;
+    padding-bottom: 1rem;
+}
+
+
+.card{
+    border: none;
+}
+
+
+footer{
+    background-color: #16304E;
+    color: white;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+
+.btn-primary{
+    background-color: red;
+}
+
+.btn-primary:hover{
+    background-color: rgb(255, 81, 81);
+}
+
+.fg{
+    padding: 2rem;
+}
+
+.fg label{
+    font-size: 1.4rem;
+} 
+
+.display-4{
+    font-size:5rem;
+}
+
+.bt{
+    font-size: 2rem; 
+}
+
+.formcont{
+    padding-bottom: 4rem;
+}
+/* 
+.page-footer{
+    padding-top: 5rem;
+} */
